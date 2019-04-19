@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/LazeBear/jr-posts-api-walkthrough#readme",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "express": "^4.16.4"
   },
   "devDependencies": {
