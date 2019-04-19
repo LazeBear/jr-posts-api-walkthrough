@@ -1,0 +1,26 @@
+{
+  "name": "jr-posts-api-walkthrough",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to gain some practical experience on how to build an basic API server with Express.js, by achieving the following tasks:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazeBear/jr-posts-api-walkthrough.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazeBear/jr-posts-api-walkthrough/issues"
+  },
+  "homepage": "https://github.com/LazeBear/jr-posts-api-walkthrough#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
