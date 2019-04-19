@@ -4,9 +4,6 @@ const app = express();
 
 app.use(express.json());
 
-const posts = [];
-let currentId = 1;
-
 app.get('/posts', (req, res) => {
   res.json(posts);
 });

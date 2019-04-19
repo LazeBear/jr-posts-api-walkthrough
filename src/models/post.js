@@ -35,10 +35,15 @@ function getPostIndexById(id) {
   return posts.findIndex(i => i.id === id);
 }
 
+function doesIdExist(id) {
+  return getPostIndexById(id) !== -1;
+}
+
 module.exports = {
   getAllPost,
   getPostById,
   updatePostById,
   deletePostById,
-  addPost
+  addPost,
+  doesIdExist
 };
