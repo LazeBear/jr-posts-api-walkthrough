@@ -20,7 +20,7 @@ _There is no database in this project, memory used to mimic the data storage_
 
 ### 0. Setup
 
-- create your own project on github
+- simply fork this project to start with or create your own
 
 - there are progressive branches for each step listed below, switch to them at your need
 
