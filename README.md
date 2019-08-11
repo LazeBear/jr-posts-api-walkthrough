@@ -22,7 +22,7 @@ _There is no database in this project, memory used to mimic the data storage_
 
 - simply fork this project to start with or create your own
 
-- at the end of each step, I will push the code to a separate branch, switch to them at your need
+- there are progressive branches for each step listed below, switch to them at your need
 
 ### 1. Basic express server
 
